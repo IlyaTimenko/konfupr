@@ -46,6 +46,7 @@
 ```
 h hello include int main n printf return stdio void world
 ```
+![{CED70257-8E47-4490-ABD2-1452D93A9551}](https://github.com/user-attachments/assets/0497861e-faa3-4f5c-a299-52817a9f275d)
 
 ## Задача 5
 
