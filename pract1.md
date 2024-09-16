@@ -7,6 +7,7 @@
 ## Задача 1
 
 Вывести отсортированный в алфавитном порядке список имен пользователей в файле passwd (вам понадобится grep).
+
 ![{5AF975D9-847A-49D9-853D-0FF8C4C894ED}](https://github.com/user-attachments/assets/f38e8724-c878-4455-94a2-5f41d90be3db)
 
 ## Задача 2
@@ -59,6 +60,8 @@ h hello include int main n printf return stdio void world
 ```
 
 В результате для banner задаются правильные права доступа и сам banner копируется в /usr/local/bin.
+
+![{5F30779C-96F4-4FF4-AA78-212B559FEB47}](https://github.com/user-attachments/assets/5cff0554-e3da-4fb9-bab6-ac2632c4dd81)
 
 ## Задача 6
 
