@@ -21,6 +21,7 @@
 139 hip
 138 manet
 ```
+![{EEE41A95-539A-49F4-998C-725AC9119E9E}](https://github.com/user-attachments/assets/5261dc94-6909-447d-a325-d617d9d6321b)
 
 ## Задача 3
 
@@ -32,6 +33,7 @@
 | Hello from RTU MIREA! |
 +-----------------------+
 ```
+![{9DD19F16-ACFD-4B50-BB07-823D99077456}](https://github.com/user-attachments/assets/d75d5a48-e885-4d57-8ad1-c0532c1e7519)
 
 Перед отправкой решения проверьте его в ShellCheck на предупреждения.
 
