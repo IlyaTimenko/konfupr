@@ -1,4 +1,4 @@
-# Практическое занятие №1. Введение, основы работы в командной строке
+![{2578FB38-CCF9-437F-815B-F0A9213163EB}](https://github.com/user-attachments/assets/28dfdddd-4273-46db-9b4c-3a62e58ecda0)# Практическое занятие №1. Введение, основы работы в командной строке
 
 П.Н. Советов, РТУ МИРЭА
 
@@ -86,6 +86,10 @@ h hello include int main n printf return stdio void world
 ## Задача 9
 
 Написать программу, которая заменяет в файле последовательности из 4 пробелов на символ табуляции. Входной и выходной файлы задаются аргументами.
+
+![{2578FB38-CCF9-437F-815B-F0A9213163EB}](https://github.com/user-attachments/assets/d924cc46-26f5-43d8-9031-3ca5eaf81e1d)
+
+![{E2907A75-C7AF-4FE7-A3C5-2BF342A439E7}](https://github.com/user-attachments/assets/db9f576e-fe5c-4a90-849d-1f38f104d6ae)
 
 ## Задача 10
 
