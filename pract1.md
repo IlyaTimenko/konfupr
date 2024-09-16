@@ -67,7 +67,7 @@ h hello include int main n printf return stdio void world
 
 Написать программу для проверки наличия комментария в первой строке файлов с расширением c, js и py.
 
-![Uploading {BB84A6B4-514B-49C6-B85A-8BC245F8D65E}.png…]()
+![{BB84A6B4-514B-49C6-B85A-8BC245F8D65E}](https://github.com/user-attachments/assets/f681a65d-9be1-41ce-9737-f773e4242922)
 
 ## Задача 7
 
