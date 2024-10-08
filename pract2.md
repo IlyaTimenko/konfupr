@@ -22,7 +22,7 @@
 
 ![изображение](https://github.com/user-attachments/assets/84a8b864-d924-442f-895a-d8eb9b638eb6)
 
-![Uploading изображение.png…]()
+![изображение](https://github.com/user-attachments/assets/508fe51c-b821-4249-9f7d-a81a72649b98)
 
 ## Задача 4
 
