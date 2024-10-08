@@ -44,6 +44,8 @@
 
 ![](images/pubgrub.png)
 
+![изображение](https://github.com/user-attachments/assets/a503f70d-b541-4372-a600-8c9e576c16f7)
+
 ## Задача 6
 
 Решить на MiniZinc задачу о зависимостях пакетов для следующих данных:
