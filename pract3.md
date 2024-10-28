@@ -135,6 +135,7 @@ for i in range(10):
 101101
 000
 ```
+![{49A6BB6C-2C43-4846-9B6D-9F585ED433CA}](https://github.com/user-attachments/assets/dc609687-65d3-4881-bca0-05551e1861e1)
 
 ## Задача 4
 
@@ -147,6 +148,7 @@ for i in range(10):
 ()
 {}
 ```
+![{422A7391-5746-46F1-B2EF-841F59B20E9A}](https://github.com/user-attachments/assets/66f8e2d8-cba6-4b0b-b800-96cabb46b438)
 
 ## Задача 5
 
@@ -159,6 +161,7 @@ y & ~(y)
 ~x
 ~((x) & y | (y) | (x)) & x | x | (y & ~y)
 ```
+![{C39F6005-C168-4B45-9629-7EB8BDE5579D}](https://github.com/user-attachments/assets/ec1c3e33-998b-490e-a132-9c308d69ac91)
 
 ## Полезные ссылки
 
