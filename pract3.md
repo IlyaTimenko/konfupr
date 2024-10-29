@@ -8,7 +8,7 @@
 
 Реализовать на Jsonnet приведенный ниже пример в формате JSON. Использовать в реализации свойство программируемости и принцип DRY.
 
-![{139F951F-3753-4D2F-8750-866C7DAD8BE5}](https://github.com/user-attachments/assets/560b6d30-19d2-4c0b-af40-4a9f14f403c9)
+![изображение](https://github.com/user-attachments/assets/8dd697c2-41bb-4525-9b74-725fe45968bc)
 
 ## Задача 2
 
